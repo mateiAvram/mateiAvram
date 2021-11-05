@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paRa95-dev
+- 👋 Hi, I’m @paRa
 - 👀 I’m interested in developing software applications, depending on what interest I have at the time
 - 🌱 I’m currently studying Computer Science at VU
 
