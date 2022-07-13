@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paRa
+- 👋 Hi, I’m @para
 - 👀 I’m interested in developing software applications, depending on what interest I have at the time
 - 🌱 I’m currently studying Computer Science at VU
 
