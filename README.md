@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matei
-- 👀 I’m interested in developing software applications, depending on what interest I have at the time
-- 🌱 I’m a CS graduate at Vrije Universiteit and currently studying Msc Software Engineering at UVA
+- 👀 I’m interested in developing software applications, depending on what interest I have at the time with a focus on Web Applications
+- 🌱 I’m a Msc. Software Engineering graduate at University of Amsterdam and a Bsc. Computer Science graduate at Vrije Universiteit Amsterdam
 
 <!---
 paRa95-dev/paRa95-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
